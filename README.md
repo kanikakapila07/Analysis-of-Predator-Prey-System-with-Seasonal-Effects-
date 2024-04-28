@@ -9,6 +9,7 @@ dx/dt = x(α − βy) + xγ sin(2πt) and
 dy/dt = −y(δ − εx) + yζ cos(2πt)
 
 where:
+
 • x(t) and y(t) represent the prey (e.g., rabbits) and predator (e.g., foxes) populations
 at time t, respectively.
 

@@ -5,6 +5,7 @@ The dynamics of the predator-prey system considering seasonal effects are descri
 the equations:
 
 dx/dt = x(α − βy) + xγ sin(2πt) and
+
 dy/dt = −y(δ − εx) + yζ cos(2πt)
 
 where:
